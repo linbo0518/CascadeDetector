@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode
+
+# Python
+__pycache__
+.ipynb_checkpoints
